@@ -26,13 +26,13 @@ namespace POS_Solutions.BLL.Shared.Struct
             }
             set
             {
-                if (value >= 0 && value <= 4)
+                if (value >= 0 && value <= 1)
                 {
                     Type = (EntityType)value;
                 }
                 else
                 {
-                    Type = EntityType.Student;
+                    Type = EntityType.Anonymous;
                 }
             }
         }

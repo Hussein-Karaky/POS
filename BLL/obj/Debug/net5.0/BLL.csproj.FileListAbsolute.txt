@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\POS\BLL\obj\Debug\net5.0\BLL.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\POS\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\POS\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\POS\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\POS\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
