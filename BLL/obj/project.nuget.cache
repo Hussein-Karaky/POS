@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "liAeqy9I32iKMWmftgv6v0skgaMv+XS3/FZHkd+jwTMJ6U2SR7EUC4I6dPbRWtgVmbtrJ3IcN3XGJR2IEEgB+Q==",
+  "dgSpecHash": "310MvFTybBUEPaXCSToW30SPHxPUc3VWFD81bXdaSI+zFTQz+6ityVyWNJzw2S0lRz8i7FOZ/BZt0LL9syK3cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\POS_Solutions\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\POS\\BLL\\BLL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
